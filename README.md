@@ -1,9 +1,9 @@
-#IMDb-Movie-Review-Sentiment-analysis
+# The-Social-Dilemma-Tweets---Text-Classification
 Machine Learning and NLP: Text Classification using python, scikit-learn and NLTK
 ## Dataset
 (https://www.kaggle.com/kaushiksuresh147/the-social-dilemma-tweets)
 
-##Libraries Needed
+## Libraries Needed
 - sklearn
 - numpy
 - pandas
@@ -14,7 +14,7 @@ Machine Learning and NLP: Text Classification using python, scikit-learn and NLT
 - imblearn
 
 ### Required Embedding 
--Glove pre-trained(840B tokens, 2.2M vocab, 300d vectors)
+- Glove pre-trained(840B tokens, 2.2M vocab, 300d vectors)
 
 
 ## Description of Project1
