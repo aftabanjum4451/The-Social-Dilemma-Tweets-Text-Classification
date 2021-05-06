@@ -17,8 +17,8 @@ Machine Learning and NLP: Text Classification using python, scikit-learn and NLT
 - Glove pre-trained(840B tokens, 2.2M vocab, 300d vectors)
 
 ### Project highlights
-- Bidirectional LSTM
 - Data anlysis & data cleanning 
+- Bidirectional LSTM
 - Handling Data Imbalance  
 - SMOTE Overlamping 
 
