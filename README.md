@@ -23,11 +23,11 @@ Machine Learning and NLP: Text Classification using python, scikit-learn and NLT
 - SMOTE Overlamping 
 
 ## Description of Project1
-In this work i have done pre-processing including, stemming, stop words and punctuation removal. After that i have performed some data analysis to analysis the data, after the data analysis, we can see that the dataset has in-balance classes distribution. In my first project I did implement any data imbalance techniques. After the data-pre-processing I used the pre-trained glove embedding to convert the text into high dimensional numeric vectors. Where the words are aligned in the vector space and puts the words that have similar contexts in close positions in a vector space. The I designed and applied the LSTM model and get the predictions and calculate the accuracy score. At the end create the classification matric in order to check the performance of the model.
+I initiated this project with data pre-processing which included: stemming, stop words and punctuation removal. After that, I  performed some data analysis to analyse the data, due to which, we could see that the dataset had in-balance class distribution. In my first project, however, I had not handled in-balance class distribution problem before. After this, I used the pre-trained glove embedding to convert the text into high dimensional numeric vectors, where the words align in the vector space and the words with similar context gather in close positions in the high dimensional space. Then, I designed and applied the LSTM models and got the predictions and calculated the accuracy score. At the end, I created the classification matric in order to check the performance of the model.
 ## Description of Project2
-In project2, I execute the same steps that I performed in project1, the only difference is, after data pre-processing, I applied the SMOTE techniques in order to handle data imbalance. Then for model evaluation I used LSTM with glove embedding as mentioned in project1.
+In project2, I executed the same steps that I had performed in project1; the only difference is that after data pre-processing, I applied the SMOTE techniques in order to handle data imbalance. Then, for model evaluation, I used LSTM with glove embedding as mentioned in project1.
 
 ## How to Run The Code
-All the code and comments are listed the jupyter notbook (in The Social dilemma tweets classification.ipynb)
+All the code and comments are listed in the jupyter notbook (in The Social dilemma tweets classification.ipynb)
 
 
